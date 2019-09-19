@@ -1,0 +1,16 @@
+.wrapper {
+  margin: 0;
+}
+
+header {
+  background: #e6d966;
+  padding: 30px;
+}
+
+a {
+  color: black;
+}
+
+a:hover {
+  color: #e6d966;
+}
